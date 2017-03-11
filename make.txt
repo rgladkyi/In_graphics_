@@ -1,0 +1,684 @@
+make  all-recursive
+make[1]: Entering directory '/home/Roman/gimp'
+Making all in m4macros
+make[2]: Entering directory '/home/Roman/gimp/m4macros'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/m4macros'
+Making all in cursors
+make[2]: Entering directory '/home/Roman/gimp/cursors'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/cursors'
+Making all in themes
+make[2]: Entering directory '/home/Roman/gimp/themes'
+Making all in Darker
+make[3]: Entering directory '/home/Roman/gimp/themes/Darker'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Darker'
+Making all in Dark
+make[3]: Entering directory '/home/Roman/gimp/themes/Dark'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Dark'
+Making all in Gray
+make[3]: Entering directory '/home/Roman/gimp/themes/Gray'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Gray'
+Making all in Light
+make[3]: Entering directory '/home/Roman/gimp/themes/Light'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Light'
+Making all in Lighter
+make[3]: Entering directory '/home/Roman/gimp/themes/Lighter'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Lighter'
+Making all in Small
+make[3]: Entering directory '/home/Roman/gimp/themes/Small'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/Small'
+Making all in System
+make[3]: Entering directory '/home/Roman/gimp/themes/System'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/themes/System'
+make[3]: Entering directory '/home/Roman/gimp/themes'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/themes'
+make[2]: Leaving directory '/home/Roman/gimp/themes'
+Making all in po
+make[2]: Entering directory '/home/Roman/gimp/po'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po'
+Making all in po-libgimp
+make[2]: Entering directory '/home/Roman/gimp/po-libgimp'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po-libgimp'
+Making all in po-plug-ins
+make[2]: Entering directory '/home/Roman/gimp/po-plug-ins'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po-plug-ins'
+Making all in po-python
+make[2]: Entering directory '/home/Roman/gimp/po-python'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po-python'
+Making all in po-script-fu
+make[2]: Entering directory '/home/Roman/gimp/po-script-fu'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po-script-fu'
+Making all in po-tips
+make[2]: Entering directory '/home/Roman/gimp/po-tips'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/po-tips'
+Making all in data
+make[2]: Entering directory '/home/Roman/gimp/data'
+Making all in brushes
+make[3]: Entering directory '/home/Roman/gimp/data/brushes'
+Making all in Basic
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Basic'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Basic'
+Making all in gimp-obsolete-files
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/gimp-obsolete-files'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/gimp-obsolete-files'
+Making all in Media
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Media'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Media'
+Making all in Legacy
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Legacy'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Legacy'
+Making all in Sketch
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Sketch'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Sketch'
+Making all in Splatters
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Splatters'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Splatters'
+Making all in Texture
+make[4]: Entering directory '/home/Roman/gimp/data/brushes/Texture'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes/Texture'
+make[4]: Entering directory '/home/Roman/gimp/data/brushes'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/data/brushes'
+make[3]: Leaving directory '/home/Roman/gimp/data/brushes'
+Making all in dynamics
+make[3]: Entering directory '/home/Roman/gimp/data/dynamics'
+Making all in Basic
+make[4]: Entering directory '/home/Roman/gimp/data/dynamics/Basic'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/dynamics/Basic'
+Making all in FX
+make[4]: Entering directory '/home/Roman/gimp/data/dynamics/FX'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/dynamics/FX'
+make[4]: Entering directory '/home/Roman/gimp/data/dynamics'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/data/dynamics'
+make[3]: Leaving directory '/home/Roman/gimp/data/dynamics'
+Making all in environ
+make[3]: Entering directory '/home/Roman/gimp/data/environ'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/environ'
+Making all in gradients
+make[3]: Entering directory '/home/Roman/gimp/data/gradients'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/gradients'
+Making all in images
+make[3]: Entering directory '/home/Roman/gimp/data/images'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/images'
+Making all in interpreters
+make[3]: Entering directory '/home/Roman/gimp/data/interpreters'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/interpreters'
+Making all in palettes
+make[3]: Entering directory '/home/Roman/gimp/data/palettes'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/palettes'
+Making all in patterns
+make[3]: Entering directory '/home/Roman/gimp/data/patterns'
+Making all in Animal
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Animal'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Animal'
+Making all in Fabric
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Fabric'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Fabric'
+Making all in Food
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Food'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Food'
+Making all in Legacy
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Legacy'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Legacy'
+Making all in Paper
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Paper'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Paper'
+Making all in Plant
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Plant'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Plant'
+Making all in Sky
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Sky'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Sky'
+Making all in Stone
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Stone'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Stone'
+Making all in Water
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Water'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Water'
+Making all in Wood
+make[4]: Entering directory '/home/Roman/gimp/data/patterns/Wood'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns/Wood'
+make[4]: Entering directory '/home/Roman/gimp/data/patterns'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/data/patterns'
+make[3]: Leaving directory '/home/Roman/gimp/data/patterns'
+Making all in tips
+make[3]: Entering directory '/home/Roman/gimp/data/tips'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/tips'
+Making all in tags
+make[3]: Entering directory '/home/Roman/gimp/data/tags'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/data/tags'
+Making all in tool-presets
+make[3]: Entering directory '/home/Roman/gimp/data/tool-presets'
+Making all in FX
+make[4]: Entering directory '/home/Roman/gimp/data/tool-presets/FX'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/tool-presets/FX'
+Making all in Paint
+make[4]: Entering directory '/home/Roman/gimp/data/tool-presets/Paint'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/tool-presets/Paint'
+Making all in Selection
+make[4]: Entering directory '/home/Roman/gimp/data/tool-presets/Selection'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/tool-presets/Selection'
+Making all in Sketch
+make[4]: Entering directory '/home/Roman/gimp/data/tool-presets/Sketch'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/data/tool-presets/Sketch'
+make[4]: Entering directory '/home/Roman/gimp/data/tool-presets'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/data/tool-presets'
+make[3]: Leaving directory '/home/Roman/gimp/data/tool-presets'
+make[3]: Entering directory '/home/Roman/gimp/data'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/data'
+make[2]: Leaving directory '/home/Roman/gimp/data'
+Making all in desktop
+make[2]: Entering directory '/home/Roman/gimp/desktop'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/desktop'
+Making all in menus
+make[2]: Entering directory '/home/Roman/gimp/menus'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/menus'
+Making all in libgimpbase
+make[2]: Entering directory '/home/Roman/gimp/libgimpbase'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpbase'
+Making all in tools
+make[2]: Entering directory '/home/Roman/gimp/tools'
+Making all in pdbgen
+make[3]: Entering directory '/home/Roman/gimp/tools'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/tools'
+make[2]: Leaving directory '/home/Roman/gimp/tools'
+Making all in icons
+make[2]: Entering directory '/home/Roman/gimp/icons'
+Making all in Color
+make[3]: Entering directory '/home/Roman/gimp/icons/Color'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/icons/Color'
+Making all in Legacy
+make[3]: Entering directory '/home/Roman/gimp/icons/Legacy'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/icons/Legacy'
+Making all in Symbolic
+make[3]: Entering directory '/home/Roman/gimp/icons/Symbolic'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/icons/Symbolic'
+Making all in Symbolic-Inverted
+make[3]: Entering directory '/home/Roman/gimp/icons/Symbolic-Inverted'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/icons/Symbolic-Inverted'
+make[3]: Entering directory '/home/Roman/gimp/icons'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/icons'
+make[2]: Leaving directory '/home/Roman/gimp/icons'
+Making all in libgimpcolor
+make[2]: Entering directory '/home/Roman/gimp/libgimpcolor'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpcolor'
+Making all in libgimpmath
+make[2]: Entering directory '/home/Roman/gimp/libgimpmath'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpmath'
+Making all in libgimpconfig
+make[2]: Entering directory '/home/Roman/gimp/libgimpconfig'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpconfig'
+Making all in libgimpmodule
+make[2]: Entering directory '/home/Roman/gimp/libgimpmodule'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpmodule'
+Making all in libgimpthumb
+make[2]: Entering directory '/home/Roman/gimp/libgimpthumb'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpthumb'
+Making all in libgimpwidgets
+make[2]: Entering directory '/home/Roman/gimp/libgimpwidgets'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimpwidgets'
+Making all in libgimp
+make[2]: Entering directory '/home/Roman/gimp/libgimp'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/libgimp'
+Making all in app
+make[2]: Entering directory '/home/Roman/gimp/app'
+make  all-recursive
+make[3]: Entering directory '/home/Roman/gimp/app'
+Making all in config
+make[4]: Entering directory '/home/Roman/gimp/app/config'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/config'
+Making all in core
+make[4]: Entering directory '/home/Roman/gimp/app/core'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/core'
+Making all in operations
+make[4]: Entering directory '/home/Roman/gimp/app/operations'
+Making all in layer-modes
+make[5]: Entering directory '/home/Roman/gimp/app/operations/layer-modes'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/Roman/gimp/app/operations/layer-modes'
+Making all in layer-modes-legacy
+make[5]: Entering directory '/home/Roman/gimp/app/operations/layer-modes-legacy'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/Roman/gimp/app/operations/layer-modes-legacy'
+Making all in tests
+make[5]: Entering directory '/home/Roman/gimp/app/operations/tests'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/Roman/gimp/app/operations/tests'
+make[5]: Entering directory '/home/Roman/gimp/app/operations'
+make[5]: Nothing to be done for 'all-am'.
+make[5]: Leaving directory '/home/Roman/gimp/app/operations'
+make[4]: Leaving directory '/home/Roman/gimp/app/operations'
+Making all in gegl
+make[4]: Entering directory '/home/Roman/gimp/app/gegl'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/gegl'
+Making all in text
+make[4]: Entering directory '/home/Roman/gimp/app/text'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/text'
+Making all in vectors
+make[4]: Entering directory '/home/Roman/gimp/app/vectors'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/vectors'
+Making all in paint
+make[4]: Entering directory '/home/Roman/gimp/app/paint'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/paint'
+Making all in plug-in
+make[4]: Entering directory '/home/Roman/gimp/app/plug-in'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/plug-in'
+Making all in xcf
+make[4]: Entering directory '/home/Roman/gimp/app/xcf'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/xcf'
+Making all in file
+make[4]: Entering directory '/home/Roman/gimp/app/file'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/file'
+Making all in pdb
+make[4]: Entering directory '/home/Roman/gimp/app/pdb'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/pdb'
+Making all in widgets
+make[4]: Entering directory '/home/Roman/gimp/app/widgets'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/widgets'
+Making all in display
+make[4]: Entering directory '/home/Roman/gimp/app/display'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/display'
+Making all in tools
+make[4]: Entering directory '/home/Roman/gimp/app/tools'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/tools'
+Making all in dialogs
+make[4]: Entering directory '/home/Roman/gimp/app/dialogs'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/dialogs'
+Making all in actions
+make[4]: Entering directory '/home/Roman/gimp/app/actions'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/actions'
+Making all in menus
+make[4]: Entering directory '/home/Roman/gimp/app/menus'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/app/menus'
+Making all in gui
+make[4]: Entering directory '/home/Roman/gimp/app/gui'
+make  all-am
+make[5]: Entering directory '/home/Roman/gimp/app/gui'
+make[5]: Nothing to be done for 'all-am'.
+make[5]: Leaving directory '/home/Roman/gimp/app/gui'
+make[4]: Leaving directory '/home/Roman/gimp/app/gui'
+Making all in .
+make[4]: Entering directory '/home/Roman/gimp/app'
+make[4]: Leaving directory '/home/Roman/gimp/app'
+Making all in tests
+make[4]: Entering directory '/home/Roman/gimp/app/tests'
+Making all in files
+make[5]: Entering directory '/home/Roman/gimp/app/tests/files'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/Roman/gimp/app/tests/files'
+Making all in gimpdir
+make[5]: Entering directory '/home/Roman/gimp/app/tests/gimpdir'
+Making all in brushes
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir/brushes'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir/brushes'
+Making all in gradients
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir/gradients'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir/gradients'
+Making all in patterns
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir/patterns'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir/patterns'
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir'
+make[6]: Nothing to be done for 'all-am'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir'
+make[5]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir'
+Making all in gimpdir-empty
+make[5]: Entering directory '/home/Roman/gimp/app/tests/gimpdir-empty'
+Making all in brushes
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir-empty/brushes'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir-empty/brushes'
+Making all in gradients
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir-empty/gradients'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir-empty/gradients'
+Making all in patterns
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir-empty/patterns'
+make[6]: Nothing to be done for 'all'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir-empty/patterns'
+make[6]: Entering directory '/home/Roman/gimp/app/tests/gimpdir-empty'
+make[6]: Nothing to be done for 'all-am'.
+make[6]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir-empty'
+make[5]: Leaving directory '/home/Roman/gimp/app/tests/gimpdir-empty'
+make[5]: Entering directory '/home/Roman/gimp/app/tests'
+make[5]: Nothing to be done for 'all-am'.
+make[5]: Leaving directory '/home/Roman/gimp/app/tests'
+make[4]: Leaving directory '/home/Roman/gimp/app/tests'
+make[3]: Leaving directory '/home/Roman/gimp/app'
+make[2]: Leaving directory '/home/Roman/gimp/app'
+Making all in modules
+make[2]: Entering directory '/home/Roman/gimp/modules'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/modules'
+Making all in plug-ins
+make[2]: Entering directory '/home/Roman/gimp/plug-ins'
+Making all in script-fu
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/script-fu'
+Making all in tinyscheme
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/script-fu/tinyscheme'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu/tinyscheme'
+Making all in ftx
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/script-fu/ftx'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu/ftx'
+Making all in scripts
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/script-fu/scripts'
+Making all in images
+make[5]: Entering directory '/home/Roman/gimp/plug-ins/script-fu/scripts/images'
+make[5]: Nothing to be done for 'all'.
+make[5]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu/scripts/images'
+make[5]: Entering directory '/home/Roman/gimp/plug-ins/script-fu/scripts'
+make[5]: Nothing to be done for 'all-am'.
+make[5]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu/scripts'
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu/scripts'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/script-fu'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/script-fu'
+Making all in file-bmp
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-bmp'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-bmp'
+Making all in file-faxg3
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-faxg3'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-faxg3'
+Making all in file-fits
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-fits'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-fits'
+Making all in file-fli
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-fli'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-fli'
+Making all in file-ico
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-ico'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-ico'
+Making all in file-jpeg
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-jpeg'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-jpeg'
+Making all in file-psd
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-psd'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-psd'
+Making all in file-sgi
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-sgi'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-sgi'
+Making all in file-tiff
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/file-tiff'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/file-tiff'
+Making all in flame
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/flame'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/flame'
+Making all in fractal-explorer
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/fractal-explorer'
+Making all in examples
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/fractal-explorer/examples'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/fractal-explorer/examples'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/fractal-explorer'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/fractal-explorer'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/fractal-explorer'
+Making all in gfig
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/gfig'
+Making all in gfig-examples
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gfig/gfig-examples'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gfig/gfig-examples'
+Making all in images
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gfig/images'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gfig/images'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gfig'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gfig'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/gfig'
+Making all in gimpressionist
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/gimpressionist'
+Making all in Brushes
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gimpressionist/Brushes'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gimpressionist/Brushes'
+Making all in Paper
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gimpressionist/Paper'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gimpressionist/Paper'
+Making all in Presets
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gimpressionist/Presets'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gimpressionist/Presets'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gimpressionist'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gimpressionist'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/gimpressionist'
+Making all in gradient-flare
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/gradient-flare'
+Making all in flares
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gradient-flare/flares'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gradient-flare/flares'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/gradient-flare'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/gradient-flare'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/gradient-flare'
+Making all in help
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/help'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/help'
+Making all in ifs-compose
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/ifs-compose'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/ifs-compose'
+Making all in imagemap
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/imagemap'
+Making all in images
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/imagemap/images'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/imagemap/images'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/imagemap'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/imagemap'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/imagemap'
+Making all in lighting
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/lighting'
+Making all in images
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/lighting/images'
+make[4]: Nothing to be done for 'all'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/lighting/images'
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/lighting'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/lighting'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/lighting'
+Making all in map-object
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/map-object'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/map-object'
+Making all in pagecurl
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/pagecurl'
+make  all-am
+make[4]: Entering directory '/home/Roman/gimp/plug-ins/pagecurl'
+make[4]: Nothing to be done for 'all-am'.
+make[4]: Leaving directory '/home/Roman/gimp/plug-ins/pagecurl'
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/pagecurl'
+Making all in print
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/print'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/print'
+Making all in screenshot
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/screenshot'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/screenshot'
+Making all in selection-to-path
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/selection-to-path'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/selection-to-path'
+Making all in twain
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/twain'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/twain'
+Making all in ui
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/ui'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/ui'
+Making all in common
+make[3]: Entering directory '/home/Roman/gimp/plug-ins/common'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins/common'
+make[3]: Entering directory '/home/Roman/gimp/plug-ins'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/plug-ins'
+make[2]: Leaving directory '/home/Roman/gimp/plug-ins'
+Making all in etc
+make[2]: Entering directory '/home/Roman/gimp/etc'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/etc'
+Making all in devel-docs
+make[2]: Entering directory '/home/Roman/gimp/devel-docs'
+Making all in tools
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/tools'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/tools'
+Making all in libgimpbase
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpbase'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpbase'
+Making all in libgimpcolor
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpcolor'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpcolor'
+Making all in libgimpconfig
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpconfig'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpconfig'
+Making all in libgimpmath
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpmath'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpmath'
+Making all in libgimpmodule
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpmodule'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpmodule'
+Making all in libgimpthumb
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpthumb'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpthumb'
+Making all in libgimpwidgets
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimpwidgets'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimpwidgets'
+Making all in libgimp
+make[3]: Entering directory '/home/Roman/gimp/devel-docs/libgimp'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs/libgimp'
+make[3]: Entering directory '/home/Roman/gimp/devel-docs'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/devel-docs'
+make[2]: Leaving directory '/home/Roman/gimp/devel-docs'
+Making all in docs
+make[2]: Entering directory '/home/Roman/gimp/docs'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/Roman/gimp/docs'
+Making all in build
+make[2]: Entering directory '/home/Roman/gimp/build'
+Making all in windows
+make[3]: Entering directory '/home/Roman/gimp/build/windows'
+make[3]: Nothing to be done for 'all'.
+make[3]: Leaving directory '/home/Roman/gimp/build/windows'
+make[3]: Entering directory '/home/Roman/gimp/build'
+make[3]: Nothing to be done for 'all-am'.
+make[3]: Leaving directory '/home/Roman/gimp/build'
+make[2]: Leaving directory '/home/Roman/gimp/build'
+make[2]: Entering directory '/home/Roman/gimp'
+/usr/bin/xsltproc -o AUTHORS ./authors.xsl authors.xml || rm -f AUTHORS
+make[2]: Leaving directory '/home/Roman/gimp'
+make[1]: Leaving directory '/home/Roman/gimp'
